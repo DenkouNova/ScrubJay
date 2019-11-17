@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrubJay", "ScrubJay\ScrubJay.csproj", "{EAF3A9B8-C617-46F0-B661-32259FFA245D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{89A3BA65-DBE7-4E33-B3EB-42B242370AB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrubJayViewer", "ScrubJayViewer\ScrubJayViewer.csproj", "{968C3331-6857-495A-88E1-AEE8019936AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrubJayTools", "ScrubJayTools\ScrubJayTools.csproj", "{C8418D72-3739-4E93-A7DD-6FD1FFE725EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{7DD0E099-33EB-4BA5-BC1F-315F856D2FED}"
+	ProjectSection(SolutionItems) = preProject
+		Resources\ScrubJay_DatabaseDiagram_1.0.drawio = Resources\ScrubJay_DatabaseDiagram_1.0.drawio
+		Resources\ScrubJay_DatabaseDiagram_1.0.png = Resources\ScrubJay_DatabaseDiagram_1.0.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF3A9B8-C617-46F0-B661-32259FFA245D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF3A9B8-C617-46F0-B661-32259FFA245D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF3A9B8-C617-46F0-B661-32259FFA245D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF3A9B8-C617-46F0-B661-32259FFA245D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A3BA65-DBE7-4E33-B3EB-42B242370AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A3BA65-DBE7-4E33-B3EB-42B242370AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A3BA65-DBE7-4E33-B3EB-42B242370AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A3BA65-DBE7-4E33-B3EB-42B242370AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{968C3331-6857-495A-88E1-AEE8019936AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968C3331-6857-495A-88E1-AEE8019936AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968C3331-6857-495A-88E1-AEE8019936AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968C3331-6857-495A-88E1-AEE8019936AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8418D72-3739-4E93-A7DD-6FD1FFE725EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8418D72-3739-4E93-A7DD-6FD1FFE725EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8418D72-3739-4E93-A7DD-6FD1FFE725EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8418D72-3739-4E93-A7DD-6FD1FFE725EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
